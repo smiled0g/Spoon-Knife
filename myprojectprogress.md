@@ -1,0 +1,1 @@
+I have talked to a professor and grad students in Cognitive Science Dept. about the directions and features that will be needed in the first iteration of the project. Mockup of the project is being done.
